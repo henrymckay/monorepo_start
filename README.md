@@ -1,2 +1,2 @@
-# mono_start
+# monorepo_start
 My first monorepo.
